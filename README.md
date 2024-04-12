@@ -7,8 +7,8 @@
 | 3) Perfect 45 stars for Forgotten Halls                  | 3) Obtain 36 stars in the memory of chaos                           | 3) YOUR SUGGESTION!        |
 | 4) Complete the Xianzhou Story                           | 4) Beat pure fiction                                                | 4) ??FINAL CHALLENGE??   |
 | 5) Complete the Penacony Story                           | 5) Obtain 12 stars in pure fiction                                  |                            |
-| 6) Beat Swarm Disaster Difficulty 4                      | 6) Beat Swarm Disaster Difficulty 5                                 |                            |
-| 7) Beat Gold & Gears Difficulty 5                        | 7) Beat Gold & Gears Difficulty 5 Conundrum lv 12                   |                            |
+| 6) Beat Swarm Disaster Difficulty 4                      | 6) Perfect Clear Memory of Xianzhou 6                             |                            |
+| 7) Beat Gold & Gears Difficulty 5                        | 7) Beat Swarm Disaster Difficulty 5                       |                            |
 | 8) Beat the hardest difficulty in SU (9/9)               | 8) Beat Gold & Gears Difficulty 5 Conundrum lv 12 Disruption lv. 20 |                            |
 |                                                          |                                                                     |                            |
 
