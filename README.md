@@ -1,5 +1,7 @@
 Rule: 5) Before You Pull (Banner Unlock Milestones)
+
 *once you go "Post TL 60", all "Pre TL 60" milestones will still need to be completed, but do NOT grant a banner unlock.
+
 | Pre TL 60 (chars lv. 70)                                 | Post TL 60 (chars lv. 80)                                           | ANY TL                     |
 | -------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------- |
 | 1) Unlock Swarm Disaster (Beat the first 5 worlds in SU) | 1) Defeat every Echo of War boss at the highest difficulty          | 1) Farm 1000 eagle pieces  |
