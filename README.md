@@ -1,7 +1,7 @@
 # Rule: 5) Before You Pull (Banner Unlock Milestones)
 
 - once you go "Post TL 60", all "Pre TL 60" milestones will still need to be completed, but do NOT grant a banner unlock.
-- one character OR weapon banner unlock of your choice per completion of a milestone 
+- upon completion of a milestone: one character OR weapon banner unlock of your choice 
 
 | Pre TL 60 (chars lv. 70)                                 | Post TL 60 (chars lv. 80)                                           | ANY TL                     |
 | -------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------- |
