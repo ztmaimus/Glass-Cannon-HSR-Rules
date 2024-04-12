@@ -2,7 +2,7 @@
 
 | Pre TL 60 (chars lv. 70)                                 | Post TL 60 (chars lv. 80)                                           | ANY TL                     |
 | -------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------- |
-| 1) ~~Unlock Swarm Disaster (Beat the first 5 worlds in SU)~~ | 1) Defeat every Echo of War boss at the highest difficulty          | 1) Farm 1000 eagle pieces  |
+| 1) Unlock Swarm Disaster (Beat the first 5 worlds in SU) | 1) Defeat every Echo of War boss at the highest difficulty          | 1) Farm 1000 eagle pieces  |
 | 2) Beat Forgotten Halls                                  | 2) Beat the memory of chaos                                         | 2) Obtain 500 Achievements |
 | 3) Perfect 45 stars for Forgotten Halls                  | 3) Obtain 36 stars in the memory of chaos                           | 3) YOUR SUGGESTION!        |
 | 4) Complete the Xianzhou Story                           | 4) Beat pure fiction                                                | 4) ??FINAL CHALLENGE??   |
