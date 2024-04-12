@@ -1,4 +1,4 @@
-# HSR Glass Cannon Banner Unlock Milestones
+# HSR Glass Cannon: 5) Before You Pull Banner Unlock Milestones
 
 | Pre TL 60 (chars lv. 70)                                 | Post TL 60 (chars lv. 80)                                           | ANY TL                     |
 | -------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------- |
