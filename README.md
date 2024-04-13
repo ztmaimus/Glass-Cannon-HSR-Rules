@@ -1,5 +1,6 @@
 
 ## Rules
+- for rule #5 milestones, check below
 ![rules](rules.png)
 
 ## Rule: 5) Before You Pull (Banner Unlock Milestones)
@@ -17,6 +18,6 @@
 | 6) Beat Swarm Disaster Difficulty 4                      | 6) Perfect Clear Memory of Xianzhou 6                             |                            |
 | 7) Beat Gold & Gears Difficulty 5                        | 7) Beat Swarm Disaster Difficulty 5                       |                            |
 | 8) Beat the hardest difficulty in SU (9/9)               | 8) Beat Gold & Gears Difficulty 5 Conundrum lv 12 |                            |
-|                                                          |                                                                     |                            |
+| Freebie) Beat Gepard in SU world 3                                                         |                                                                     |                            |
 
 
