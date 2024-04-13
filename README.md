@@ -1,6 +1,6 @@
 
 ## Rules
-![rules](https://imgur.com/a/Bzu6p5n)
+![rules](rules.png)
 
 ## Rule: 5) Before You Pull (Banner Unlock Milestones)
 
