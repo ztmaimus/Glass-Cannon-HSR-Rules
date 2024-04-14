@@ -2,6 +2,7 @@
 - These rules are generalized. If they do not cover certain edge cases, then feel free to address it however you would like to at your own discretion!
 ## MAIN RULE
 - NO TANKS / NO HEALERS (If forced to use in trial, and no way to bypass, it's fine)
+- NO Preservation or Abundance path for SU (you can select the blessings, but not the path)
 
 ## Other Rules
 - for rule #5 milestones, check below
