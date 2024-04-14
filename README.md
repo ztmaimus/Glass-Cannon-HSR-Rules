@@ -1,5 +1,9 @@
 
-## Rules
+## MAIN RULE
+- NO TANKS
+- NO HEALERS
+
+## Other Rules
 - for rule #5 milestones, check below
 ![rules](rules.png)
 
