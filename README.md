@@ -2,7 +2,7 @@
 - These rules are generalized. If they do not cover certain edge cases, then feel free to address it however you would like to at your own discretion!
 ## MAIN RULE
 - NO TANKS / NO HEALERS (If forced to use in trial, and no way to bypass, it's fine)
-- NO Preservation or Abundance path for SU (you can select the blessings, but not the path)
+
 
 ## Other Rules
 - for rule #5 milestones, check below
@@ -13,6 +13,7 @@
 - once you go **"Post TL 60"**, all **"Pre TL 60"** milestones will still need to be completed, but they do NOT grant a banner unlock.
 - **upon completion of a milestone:** one character OR weapon banner unlock of your choice (You CAN hoard banner unlocks as you beat each milestone)
 - If you run out of pulls and die -> Nothing happens. You're just at 0 jades and broke kekw.
+- NO Preservation or Abundance path for SU until you beat it without first (you can select the blessings, but not the path)
 
 | Pre TL 60 (chars lv. 70)                                 | Post TL 60 (chars lv. 80)                                           | ANY TL                     |
 | -------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------- |
