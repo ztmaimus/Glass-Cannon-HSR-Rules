@@ -1,7 +1,6 @@
 
 ## MAIN RULE
-- NO TANKS
-- NO HEALERS
+- NO TANKS / NO HEALERS (If forced to use in trial, and no way to bypass, it's fine)
 
 ## Other Rules
 - for rule #5 milestones, check below
@@ -9,8 +8,9 @@
 
 ## Rule: 5) Before You Pull (Banner Unlock Milestones)
 
-- once you go **"Post TL 60"**, all **"Pre TL 60"** milestones will still need to be completed, but do NOT grant a banner unlock.
-- **upon completion of a milestone:** one character OR weapon banner unlock of your choice 
+- once you go **"Post TL 60"**, all **"Pre TL 60"** milestones will still need to be completed, but they do NOT grant a banner unlock.
+- **upon completion of a milestone:** one character OR weapon banner unlock of your choice (You CAN hoard banner unlocks as you beat each milestone)
+- 
 
 | Pre TL 60 (chars lv. 70)                                 | Post TL 60 (chars lv. 80)                                           | ANY TL                     |
 | -------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------- |
