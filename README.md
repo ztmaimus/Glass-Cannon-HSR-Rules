@@ -10,7 +10,7 @@
 
 - once you go **"Post TL 60"**, all **"Pre TL 60"** milestones will still need to be completed, but they do NOT grant a banner unlock.
 - **upon completion of a milestone:** one character OR weapon banner unlock of your choice (You CAN hoard banner unlocks as you beat each milestone)
-- 
+- If you run out of pulls and die -> Nothing happens. You're just at 0 jades and broke kekw.
 
 | Pre TL 60 (chars lv. 70)                                 | Post TL 60 (chars lv. 80)                                           | ANY TL                     |
 | -------------------------------------------------------- | ------------------------------------------------------------------- | -------------------------- |
