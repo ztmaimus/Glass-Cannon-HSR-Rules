@@ -25,6 +25,6 @@
 | 6) Beat Swarm Disaster Difficulty 4                      | 6) Perfect Clear Memory of Xianzhou 6                             |                            |
 | 7) Beat Gold & Gears Difficulty 5                        | 7) Beat Swarm Disaster Difficulty 5                       |                            |
 | 8) Beat the hardest difficulty in SU (9/9)               | 8) Beat Gold & Gears Difficulty 5 Conundrum lv 12 |                            |
-                                                         |                                                                     |                            |
+                                                        
 
 
